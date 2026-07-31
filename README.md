@@ -2,7 +2,7 @@
 
 🎓 **Estudante de Sistemas de Informação** na PUC Minas  
 💼 **Gerente Administrativo** focado em automação e eficiência de processos  
-💻 Desenvolvendo projetos práticos com **C#, JavaScript, HTML5, CSS3 e SQL**
+💻 Desenvolvendo projetos práticos com **C#, JavaScript, HTML5 e CSS3**
 
 ---
 
