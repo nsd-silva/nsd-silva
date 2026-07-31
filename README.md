@@ -1,7 +1,7 @@
 # Olá! Eu sou o Nathan Silva 👋
 
 🎓 **Estudante de Sistemas de Informação** na PUC Minas  
-💼 **Gerente Administrativo** focado em automação e eficiência de processos  
+💼 **Profissional de Gestão Administrativa** desenvolvendo soluções em automação, análise de dados e eficiência de processos.  
 💻 Desenvolvendo projetos práticos com **C#, JavaScript, HTML5 e CSS3**
 
 ---
